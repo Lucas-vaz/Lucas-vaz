@@ -4,7 +4,6 @@ Olá! Sou o Lucas Vaz
 ![banner github](https://user-images.githubusercontent.com/59597803/210286199-9e0dd8de-fffa-4325-8c14-35635e886be2.png)
 
 
-Estudante de Análise e Desenvolvimento de Sistemas
 --------------------------------------------------
 
 Atualmente, estou cursando uma segunda graduação em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Caetano do Sul - FATEC. Possuo forte interesse e venho somando conhecimentos em Programação Front-end, UX/UI Design, Metodologias Ágeis e Análise de Testes.

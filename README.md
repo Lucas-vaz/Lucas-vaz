@@ -1,7 +1,7 @@
 Olá! Sou o Lucas Vaz
 =================================================================================================================================
 
-![banner github](https://user-images.githubusercontent.com/59597803/210286199-9e0dd8de-fffa-4325-8c14-35635e886be2.png)
+![banner github lucas](https://user-images.githubusercontent.com/59597803/210342659-5fc2f0d3-e578-4a67-b04b-4f443ae540b3.png)
 
 
 --------------------------------------------------

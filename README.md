@@ -6,9 +6,9 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 Atualmente, estou cursando uma segunda graduação em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Caetano do Sul - FATEC. Possuo forte interesse e venho somando conhecimentos em Programação Front-end, UX/UI Design, Metodologias Ágeis e Análise de Testes.
 
-*   🌍  I'm based in São Bernardo do Campo, São Paulo
-*   🖥️  See my portfolio at [lucasvaz.dev](http://lucasvaz.dev)
-*   ✉️  You can contact me at [lucasvaz@outlook.com](mailto:lucasvaz@outlook.com)
+*   🌍  São Bernardo do Campo, São Paulo
+*   🖥️  Portfólio [lucasvaz.dev](http://lucasvaz.dev)
+*   ✉️  Email [lucasvaz@outlook.com](mailto:lucasvaz@outlook.com)
  
 ### Skills 
 <p align="left">

@@ -1,6 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Vaz
 =================================================================================================================================
 
+![banner github](https://user-images.githubusercontent.com/59597803/210286199-9e0dd8de-fffa-4325-8c14-35635e886be2.png)
+
+
 Estudante de Análise e Desenvolvimento de Sistemas
 --------------------------------------------------
 
